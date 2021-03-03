@@ -233,9 +233,7 @@ Weapons are mostly what keep you alive in this game, so you have to buy the prop
 
 ### 6.0 Perks
 
-Using the proper perks is crucial and can affect your odds of survival; using trigger finger while equipping an SMG is futile.
-
-Here's a list of relevant perks at certain level thresholds :
+Using the proper perks is crucial and can affect your odds of survival; using trigger finger while equipping an SMG is futile. Here's a list of relevant perks at certain level thresholds :
 
 10 : There's only one combo possible
 
