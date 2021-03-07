@@ -5,9 +5,9 @@
 **Those who remain is a multiplayer wave based FPS zombie game where you cooperate with your teammates to survive all 15 waves.**
 **Shoutout to DrKekson / keke#6484 for asking for one**
 
-**Planning to add screenshots and more media to help visual what is being documented**
+**Planning to add screenshots and more media to help visualize what is being documented**
 
-I have played this game for months now and have reached level 90 which gives me the confidence to say that I'm fairly skilled and experienced in this game. Note that the [twr fandom wiki](https://those-who-remain.fandom.com/wiki/Those_Who_Remain_Wiki) provides useful information.
+I have played this game for months now and have reached level 90 which gives me the confidence to say that I'm fairly skilled and experienced in this game. Note that the [twr fandom wiki](https://those-who-remain.fandom.com/wiki/Those_Who_Remain_Wiki) provides useful information and that this repo is bound to change a lot.
 
 ## Table of content
 
