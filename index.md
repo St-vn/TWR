@@ -7,7 +7,7 @@
 
 **Planning to add screenshots and more media to help visualize what is being documented**
 
-I have played this game for months now and have reached level 90 which gives me the confidence to say that I'm fairly skilled and experienced in this game. Note that the [twr fandom wiki](https://those-who-remain.fandom.com/wiki/Those_Who_Remain_Wiki) provides useful information and that this repo is bound to change a lot.
+I have played this game for months now and have passed lvl 100 which gives me the confidence to say that I'm fairly skilled and experienced in this game. Note that the [twr fandom wiki](https://those-who-remain.fandom.com/wiki/Those_Who_Remain_Wiki) provides useful information and that this repo is bound to change a lot.
 
 ## Table of content
 
